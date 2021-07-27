@@ -147,5 +147,5 @@ Regional Awards:
 
 ## Class Diagram
 
-![class-diagram](D:\deneme.java_\src\AdventureGame\class-diagram.jpg)
+![class-diagram](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/AdventureGame/class-diagram.jpg)
 
