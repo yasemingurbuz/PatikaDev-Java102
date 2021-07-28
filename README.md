@@ -1,8 +1,12 @@
+[TOC]
+
+
+
 # Adventure Game
 
 We are making a text-based adventure game with Java.
 
-## Tasks
+#### Tasks
 
 1- In order to finish the game, after all the enemies in the war zones have been cleared, the zone specific reward must be added to the player's inventory. If the player can collect all the prizes and return to "Safe House", they win the game. In addition, it is not possible to re-enter the region where the award was won.
 
@@ -149,3 +153,16 @@ Regional Awards:
 
 ![class-diagram](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/AdventureGame/class-diagram.jpg)
 
+
+
+# List Class
+
+#### Task
+
+We are designing a class in Java where we hold data using the generic construct.
+
+The purpose of the class is to keep a dynamic Array in it and dynamically retrieve the data type. For this, a generic class must be created.
+
+#### Output
+
+![ListClassOutput](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/ListClass/ListClassOutput.png)
