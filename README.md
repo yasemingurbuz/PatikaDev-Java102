@@ -3,10 +3,10 @@
 
 
 - [Adventure Game](https://github.com/yasemingurbuz/PatikaDev-Java102#adventure-game)
-
 - [List Class](https://github.com/yasemingurbuz/PatikaDev-Java102#list-class)
-
 - [Book Sorter](https://github.com/yasemingurbuz/PatikaDev-Java102#book-sorter)
+- [Match Fixture](https://github.com/yasemingurbuz/PatikaDev-Java102#match-fixture)
+- [Patika Store]()
 
 
 
@@ -199,5 +199,13 @@ The left side of the list shows the home team and the right side shows the away 
 
 If an odd number of teams is entered, another team named "Mr" must be added to complete the even number. Teams matching Mr. means they won't play that week.
 
-![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/MatchFixture/MatchFixtureOutpu1.png) ![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/MatchFixture/MatchFixtureOutpu2.png)
+![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/MatchFixture/MatchFixtureOutpu1.png)                     ![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/MatchFixture/MatchFixtureOutpu2.png)
+
+# Patika Store
+
+Patika team decided to open a virtual store where electronic goods are sold and adds that this store will make the product management system from you, the trail volunteers.
+
+![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/PatikaStore/PatikaStoreOutput1.png)
+
+![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/PatikaStore/PatikaStoreOutput2.png)
 
