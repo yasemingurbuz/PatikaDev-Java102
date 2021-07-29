@@ -1,3 +1,7 @@
+# Patika Dev Java-102 Homework
+
+
+
 - [Adventure Game](https://github.com/yasemingurbuz/PatikaDev-Java102#adventure-game)
 
 - [List Class](https://github.com/yasemingurbuz/PatikaDev-Java102#list-class)
@@ -180,4 +184,20 @@ The Book class consists of the name of the book, the number of pages, the name o
 #### Output
 
 ![Book Sorter Output](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/BookSorter/BookSorterOutput.png)
+
+# Match Fixture
+
+A class should be written that creates random match fixtures for teams entered with Java.
+
+Rules :
+
+Double Term League method will be applied. Each team will play two matches against other teams, at home and away.
+
+
+The left side of the list shows the home team and the right side shows the away team.
+
+
+If an odd number of teams is entered, another team named "Mr" must be added to complete the even number. Teams matching Mr. means they won't play that week.
+
+![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/MatchFixture/MatchFixtureOutpu1.png) ![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/MatchFixture/MatchFixtureOutpu2.png)
 
