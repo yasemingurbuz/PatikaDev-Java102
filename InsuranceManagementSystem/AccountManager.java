@@ -21,7 +21,7 @@ public class AccountManager {
 
         public ArrayList<User> list() {
         ArrayList<User> users = new ArrayList<>();
-        users.add(new User(1, "Ali", "Demir", "ad@gmail.com", "123", "Mühendis", 24, null, null));
+        users.add(new User(1, "Yasemin", "Gürbüz", "ad@gmail.com", "123", "Bilgisayar Mühendisi", 24, null, null));
         return users;
 
 }
