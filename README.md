@@ -7,8 +7,9 @@
 - [Book Sorter](https://github.com/yasemingurbuz/PatikaDev-Java102#book-sorter)
 - [Match Fixture](https://github.com/yasemingurbuz/PatikaDev-Java102#match-fixture)
 - [Patika Store](https://github.com/yasemingurbuz/PatikaDev-Java102#patika-store)
-- [Incurance Management System]()
-- [Race of Thread]()
+- [Incurance Management System](https://github.com/yasemingurbuz/PatikaDev-Java102#incurance-management-system)
+- [Race of Thread](https://github.com/yasemingurbuz/PatikaDev-Java102#race-of-thread)
+- [List of Book]()
 
 
 
@@ -230,3 +231,14 @@ Create an ArrayList of numbers from 1 to 10000 (10 thousand). Next, divide the 1
 ArrayLists holding odd and even numbers will be empty when first created. And they will be two ArrayLists.
 
 4 When Thread starts processing its own 2500-element ArrayList, it will fill the odd and even number ArrayLists.
+
+# List of Book
+
+The Book class consists of the name of the book, the number of pages, the name of the author, and the date of publication.
+
+Create 10 objects from the Book class and store them in an ArrayList structure. Using the stream structure and lambda expressions, write it to create a new Map<String, String> with the name of the author opposite the book name.
+
+Make the enhancement that filters the books with more than 100 pages from this 10-element Book list and returns them as a new list. (You can use Stream and Lambda expressions.)
+
+![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/ListofBook/ListofBookOutput.png)
+
