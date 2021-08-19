@@ -10,6 +10,7 @@
 - [Incurance Management System](https://github.com/yasemingurbuz/PatikaDev-Java102#incurance-management-system)
 - [Race of Thread](https://github.com/yasemingurbuz/PatikaDev-Java102#race-of-thread)
 - [List of Book](https://github.com/yasemingurbuz/PatikaDev-Java102#list-of-book)
+- [Patika Klonu]()
 
 
 
@@ -241,4 +242,86 @@ Create 10 objects from the Book class and store them in an ArrayList structure. 
 Make the enhancement that filters the books with more than 100 pages from this 10-element Book list and returns them as a new list. (You can use Stream and Lambda expressions.)
 
 ![](https://github.com/yasemingurbuz/PatikaDev-Java102/blob/main/ListofBook/ListofBookOutput.png)
+
+# Patika Klonu(to be continued)
+
+### Instructor Panel
+
+
+When instructors log into the system, a screen should be designed where they can perform their tasks.
+
+Instructors can see and list the trainings assigned to them by the Operators. They are not allowed to edit or delete tutorials. They cannot see the trainings of other trainers.
+
+
+The task of the trainers will be to add content to the trainings. (See: Java 102 Tutorial on the system path.dev)
+
+
+Instructors can add content, edit, delete and list their own content.
+
+
+Features of the contents:
+
+
+Content Title
+
+
+Content Description
+
+
+Content Youtube Link
+
+
+Content Quiz Questions
+
+
+Course information to which the content belongs
+
+
+Quiz questions will be added from the instructor panel and when adding the question, which content it belongs to must be selected.
+
+
+On the content listing screen, it should be possible to filter by courses and by content title.
+
+
+The instructor must do all these things through the interface.
+
+### Student Panel
+
+
+When students log in to the system, they must access the lessons via paths, just like you do.
+
+Students can list the trails in the system.
+
+
+Students must enroll in a course via the trails.
+
+
+Students can access and view the contents of the course they are registered for. (There is no need to embed the Youtube video in the project, only a link can be provided)
+
+
+Students can evaluate and comment on the contents of the courses.
+
+
+Students can solve course quizzes.
+
+
+Students must do all these tasks through the interface.
+
+## Adding to the Operator Panel
+
+
+Operators have the authority to delete and edit all paths, tutorials, content and quizzes in the system.
+
+## Adding to the Home Screen
+
+
+If students do not have a membership during the login screen, they can register to the system.
+
+
+The register screen should be designed and only students should be able to register to the system.
+
+
+The programmer (ie you) should add the operators in the system, and only operators should be able to add the trainers.
+
+
 
