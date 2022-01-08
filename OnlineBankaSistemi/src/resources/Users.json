@@ -1,0 +1,12 @@
+{
+   "Users": [
+      {
+         "ID": "1",
+         "Adi": "yasemin",
+         "Soyadi": "gürbüz",
+		 "TcKimlik": "12345678910",
+		 "Sifre": "123"
+      }
+   ]
+}
+
